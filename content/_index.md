@@ -1,7 +1,4 @@
 ---
-title: "Willow Glen 5K Run/Walk"
-race_date: "Saturday, May 9, 2020 at 9AM"
-featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 description: "The 11th annual Willow Glen 5K Run/Walk for Education takes place this year, as always, on Mother’s Day weekend"
 ---
  Willow Glen 5K’s flat and USATF-certified race course starts in San Jose’s Willow Glen downtown and winds through neighborhood streets, with racers cheered on by local businesses and residents.
