@@ -2,19 +2,16 @@
 
 <div class="jumbotron">
     <div class="container">
-        <h1 class="display-4">Saturday, May 9, 2020 at 9AM</h1>
-        <p class="lead">Willow Glen 5K Run/Walk</p>
+        <h1 class="display-4">{{ .Params.race_date }}</h1>
+        <p class="lead">{{ .Title }}</p>
         <hr class="my-4">
-        <p>The 11th annual Willow Glen 5K Run/Walk for Education takes place this year, as always, on Mother’s Day weekend</p>
+        <p>{{ .Description }}</p>
         <a class="btn btn-primary btn-lg" href="#" role="button">Register Today!</a>
     </div>
 </div>
 
 <div class="container">
-  <p>Willow Glen 5K’s flat and USATF-certified race course starts in San Jose’s Willow Glen downtown and winds through neighborhood streets, with racers cheered on by local businesses and residents.</p>
-  <p>Racers, families and neighbors are then invited to a post-race festival, awards ceremony and kids’ fun zone. Sponsor booths, pancake breakfast, music, games, massage therapy, and a dedicated kids’ area – all spread out over two areas of the Willow Glen Elementary school campus.</p>
-  <p>Proceeds from the race go to local elementary school PTAs to fund after-school programs such as: arts, music, science, sports, technology and many more.</p>
-
+    {{ .Content }}
   <hr />
   <h2>Why Should You Become a Sponsor?</h2>
   <ul>
