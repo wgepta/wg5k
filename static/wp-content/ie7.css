@@ -1,0 +1,7 @@
+.nav li a {_height: 0;zoom: 1;} /* IE7 Fix */
+.button, .button:visited {  padding:7px 6px; margin:0; }
+.nav-entries a, 
+.wp-pagenavi a:link, .wp-pagenavi a:visited, 
+.wp-pagenavi .current, .wp-pagenavi .on, .wp-pagenavi a:hover,
+.wp-pagenavi span.extend, .wp-pagenavi span.pages{ font-style:normal !important; }
+#comments, .comment-container, .reply a  { position: static; }
