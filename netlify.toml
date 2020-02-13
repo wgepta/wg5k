@@ -1,0 +1,16 @@
+[[redirects]]
+  from = "/sponsorships-2"
+  to = "/sponsorships"
+
+[[redirects]]
+  from = "/race-information"
+  to = "/the-race"
+
+[[redirects]]
+  from = "/about-2"
+  to = "/about"
+
+[[redirects]]
+  from = "/*-sponsors"
+  to = "/sponsorships"
+  status = 302
