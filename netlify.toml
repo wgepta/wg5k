@@ -8,9 +8,13 @@
 
 [[redirects]]
   from = "/about-2"
-  to = "/about"
+  to = "/"
 
 [[redirects]]
-  from = "/*-sponsors"
+  from = "/about"
+  to = "/"
+
+[[redirects]]
+  from = "/*sponsors"
   to = "/sponsorships"
   status = 302
