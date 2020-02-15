@@ -6,6 +6,8 @@ type: page
 menu: main
 
 ---
+Sign up at the [Willow Glen 5K registration site](https://raceroster.com/events/2020/30150/willow-glen-5k-runwalk-for-education)
+
 ### Fees
 
 * **Adult (20+):** $30 (includes t-shirt, race number and race bag with sponsor offers)
