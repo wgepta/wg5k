@@ -1,0 +1,21 @@
+<div class="row pt-2 pb-2">
+    
+    {{ range $index, $data := . }}
+
+    {{ if ne $index 0 }}
+        {{ if (eq (mod $index 5) 0) }}
+        </div>
+        <div class="row pt-2 pb-2">
+        {{ end }}
+    {{ end }}
+
+    <div class="col-sm-2">
+        <a class="card" style="width: 142px;" href="{{ .link }}">
+            <div class="card-body" >
+                <img src="/images/sponsors/{{ .logo }}" class="card-img-top" alt="{{ .name }}" width="100px">
+            </div>
+        </a>
+    </div>
+
+    {{ end }}
+</div>
