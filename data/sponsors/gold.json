@@ -1,5 +1,14 @@
 [
     {
+        "name": "Amazon",
+        "url": "https://www.amazon.com",
+        "logo": "thumbs_amazon_150.png"
+    },
+    {
+        "name": "Councilmember Pam Foley",
+        "logo": "thumbs_CM-Foley-logo-4-Color-No-Paid-No-Council.jpg"
+    },
+    {
         "name": "Uyesugi Dental",
         "url": "http://www.sanjose-dentists.com/",
         "logo": "thumbs_uyesugi-dental.jpg"
