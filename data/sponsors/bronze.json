@@ -1,5 +1,10 @@
 [
     {
+        "name": "CEFCU",
+        "url": "https://www.cefcu.com/",
+        "logo": "thumbs_cefcu-logo-stacked-hires.png"
+    },
+    {
         "name": "Nail Elegance",
         "url": "https://www.yelp.com/biz/nail-elegance-san-jose",
         "logo": "thumbs_nail-elegance.jpg"
@@ -28,5 +33,10 @@
         "name": "Willow Den Public House",
         "url": "https://thewillowden.com/",
         "logo": "thumbs_willow_den_100.jpg"
+    },
+    {
+        "name": "Willow Glen Business Association",
+        "url": "http://www.willowglen.org/",
+        "logo": "thumbs_wgba.jpg"
     }
 ]
