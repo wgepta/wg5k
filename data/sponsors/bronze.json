@@ -5,6 +5,11 @@
         "logo": "thumbs_cefcu-logo-stacked-hires.png"
     },
     {
+        "name": "C K Studio for Hair",
+        "url": "https://www.yelp.com/biz/c-k-studio-for-hair-san-jose-2",
+        "logo": "thumbs_ckstudioforhair-100.jpg.jpeg"
+    },
+    {
         "name": "Nail Elegance",
         "url": "https://www.yelp.com/biz/nail-elegance-san-jose",
         "logo": "thumbs_nail-elegance.jpg"
@@ -25,6 +30,11 @@
         "logo": "thumbs_TOWNE-logo-300x211.png"
     },
     {
+        "name": "Splashworks",
+        "url": "https://www.splashworkskb.com/",
+        "logo": "thumbs_splashworks-1.gif"
+    },
+    {
         "name": "VisualEyes Optometry",
         "url": "https://www.visualeyesoptometry.com/",
         "logo": "thumbs_visualeyes-150.jpg"
@@ -33,10 +43,5 @@
         "name": "Willow Den Public House",
         "url": "https://thewillowden.com/",
         "logo": "thumbs_willow_den_100.jpg"
-    },
-    {
-        "name": "Willow Glen Business Association",
-        "url": "http://www.willowglen.org/",
-        "logo": "thumbs_wgba.jpg"
     }
 ]

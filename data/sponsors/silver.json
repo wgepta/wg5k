@@ -30,6 +30,11 @@
         "logo": "thumbs_oranage-theory-150-150.png"
     },
     {
+        "name": "Palermo Italian Restaurant",
+        "url": "http://palermosj.com/",
+        "logo": "thumbs_palermo.png"
+    },
+    {
         "name": "Kristen Brown for Trustee Area 3",
         "url": "https://www.facebook.com/Kristen-Brown-for-San-Jose-Unified-School-Board-103721021210216/",
         "logo": "thumbs_kristen_brown_150.png"
@@ -43,5 +48,10 @@
         "name": "Lynsie Gridley",
         "url": "http://www.lynsiegridley.com/",
         "logo": "thumbs_lynsie-gridley-150-150.png"
+    },
+    {
+        "name": "Willow Glen Business Association",
+        "url": "http://www.willowglen.org/",
+        "logo": "thumbs_wgba.jpg"
     }
 ]
