@@ -12,7 +12,7 @@ The Willow Glen 5K RUN/WALK for Education is a successful volunteer-coordinated 
 
 As a prominent local business/organization, we would like to invite you to become a sponsor for this year’s race. Sponsorship increases awareness and recognition of your business to parents, local schools and the entire Willow Glen community through promotional materials that reach tens of thousands of local residents. Sponsorship opportunities range from $500 to $5,000 and offer varying degrees of pre-race and race day promotions. Please see the attached flier for details or send mail to **sponsorships@wg5k.org**.
 
-This year’s run will take place on {{< param "race_date" >}}. Proceeds from the race go to Willow Glen Elementary and other participating schools PTAs. To fund after-school, arts, science, sports and many other programs.
+This year’s run will take place on {{< param "race_date" >}}. Proceeds from the race go to Willow Glen Elementary and other participating schools PTAs. To fund school, arts, science, sports and many other programs.
 
 ### Why Should You Become a Sponsor?
 * **EXPOSE**  your business to Willow Glen and surrounding communities.
