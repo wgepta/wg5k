@@ -1,4 +1,10 @@
 [
+
+    {
+        "name": "Brads Auto Care",
+        "url": "https://www.yelp.com/biz/brads-auto-care-san-jose-2",
+        "logo": "thumbs_brads-auto-care.jpg"
+    },
     {
         "name": "CEFCU",
         "url": "https://www.cefcu.com/",
@@ -10,14 +16,14 @@
         "logo": "thumbs_ckstudioforhair-100.jpg.jpeg"
     },
     {
+        "name": "Lexus Stevens Creek",
+        "url": "https://www.lexusstevenscreek.com/",
+        "logo": "thumbs_lexus-sc-100.jpg"
+    },
+    {
         "name": "Nail Elegance",
         "url": "https://www.yelp.com/biz/nail-elegance-san-jose",
         "logo": "thumbs_nail-elegance.jpg"
-    },
-    {
-        "name": "Brads Auto Care",
-        "url": "https://www.yelp.com/biz/brads-auto-care-san-jose-2",
-        "logo": "thumbs_brads-auto-care.jpg"
     },
     {
         "name": "The Table",
