@@ -2,17 +2,21 @@
 
 <div class="jumbotron">
     <div class="container">
-        <h1 class="display-4">{{ .Site.Params.race_date }} at {{ .Site.Params.race_time }}</h1>
+        <h1 class="display-4">
+            Any day in May : We're virtual!
+        </h1>
         <p class="lead">{{ .Site.Title }}</p>
-        <hr class="my-4">
+        <hr class="my-4" />
         <p>{{ .Params.description }}</p>
-        <a class="btn btn-primary btn-lg" href="https://raceroster.com/events/2020/30150/willow-glen-5k-runwalk-for-education" role="button">Register Today!</a>
+        <a class="btn btn-primary btn-lg"
+            href="https://raceroster.com/events/2020/30150/willow-glen-5k-runwalk-for-education" role="button">Register
+            Today!</a>
     </div>
 </div>
 
 <div class="container">
     {{ .Content }}
-  <hr />
+    <!--
   <h2>Why Should You Become a Sponsor?</h2>
   <ul>
       <li><b>EXPOSE</b> your business to Bay Area athletes and the Willow Glen community.</li>
@@ -21,25 +25,36 @@
       <li><b>DRIVE</b> participants to your website.</li>
       <li><b>SUPPORT LOCAL SCHOOLS</b> as proceeds benefit Willow Glen Elementary and other participating local schools.</li>
   </ul>
+-->
+    <hr />
+    <h2>2020 Sponsors</h2>
+    <p>
+        The Willow Glen 5K is made possible by our Presenting Sponsor, San Jose Swim
+        and Racquet Club, and the generous contributions of the following Willow
+        Glen businesses. Join us in thanking them by supporting them next time
+        you’re in Willow Glen!
+    </p>
 
-  <hr />
-  <h2>2020 Sponsors</h2>
-  <p>The Willow Glen 5K is made possible by our Presenting Sponsor, San Jose Swim and Racquet Club, and the generous contributions of the following Willow Glen businesses. Join us in thanking them by supporting them next time you’re in Willow Glen!</p>
+    <p>
+        COVID-19 is affecting everyone, including our sponsors. Consider buying gift
+        cards from them, if possible. Remember them when we eventually return to
+        normal daily life.
+    </p>
 
-  <h3>Presenting Sponsor</h3>
+    <h3>Presenting Sponsor</h3>
 
     <div class="pb-4 pt-2">
-    <a class="card" style="width: 252px;" href="http://www.sjsrc.com/">
-    <div class="card-body">
-        <img src="/images/sponsors/sjsrc_logo.jpg" class="card-img-top" alt="...">
-    </div>
-    </a>
+        <a class="card" style="width: 252px;" href="http://www.sjsrc.com/">
+            <div class="card-body">
+                <img src="/images/sponsors/sjsrc_logo.jpg" class="card-img-top" alt="..." />
+            </div>
+        </a>
     </div>
 
     <hr />
-  <h3>Platinum Sponsor</h3>
+    <h3>Platinum Sponsor</h3>
 
-  {{ partial "sponsors.html" $.Site.Data.sponsors.platinum }}
+    {{ partial "sponsors.html" $.Site.Data.sponsors.platinum }}
 
     <hr />
     <h3>Gold Sponsor</h3>
@@ -51,15 +66,10 @@
 
     {{ partial "sponsors.html" $.Site.Data.sponsors.silver }}
 
-
     <hr />
     <h3>Bronze Sponsor</h3>
 
     {{ partial "sponsors.html" $.Site.Data.sponsors.bronze }}
-
 </div>
-
-
-                      
 
 {{ end }}
