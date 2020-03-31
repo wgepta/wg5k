@@ -1,5 +1,4 @@
 [
-
     {
         "name": "Brads Auto Care",
         "url": "https://www.yelp.com/biz/brads-auto-care-san-jose-2",
@@ -14,6 +13,11 @@
         "name": "C K Studio for Hair",
         "url": "https://www.yelp.com/biz/c-k-studio-for-hair-san-jose-2",
         "logo": "thumbs_ckstudioforhair-100.jpg.jpeg"
+    },
+    {
+        "name": "Dr. Rabitz Pediatric Dentistry",
+        "url": "https://www.drrabitz.com/",
+        "logo": "thumbs_dr_rabitz_100.jpg"
     },
     {
         "name": "Lexus Stevens Creek",
