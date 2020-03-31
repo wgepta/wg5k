@@ -10,7 +10,7 @@ With the extra precautions we are all taking as a global society to keep everyon
 
 ## What is different
 
-- Each racer is now running a 5k on their own or in small, healthy groups
+- Each racer is now running a 5k on their own or in small family groups
 - You can run your race any day in May
 - Race bags will be mailed to your home
 
