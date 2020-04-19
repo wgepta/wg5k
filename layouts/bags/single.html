@@ -1,0 +1,28 @@
+{{ define "main" }}
+
+<div class="container pt-2">
+    <div>
+        <h1>{{ .Title }}
+            {{ if isset .Params "link" }}
+            <a class="text-muted" style="font-size: 50%" href="{{ .Params.link }}"><i class="fa fa-external-link"
+                    aria-hidden="true"></i></a>
+            {{ end }}
+        </h1>
+    </div>
+    <div class="row">
+        <div class="col-sm-10 col-xs-12">
+            {{ .Content }}
+        </div>
+        <div class="col-sm-2 col-xs-12">
+            <img src="/images/sponsors/{{ .Params.logo }}" class="rounded mx-2 img-fluid" />
+        </div>
+    </div>
+    <hr />
+    <div class="container">
+        {{ if isset .Params "coupon_document" }}<a href="/images/bags/{{ .Params.coupon_document }}">{{ end }}
+            <img src="/images/bags/{{ .Params.coupon }}" class="mx-2 img-fluid" />
+            {{ if isset .Params "coupon_document" }}</a>{{ end }}
+    </div>
+</div>
+
+{{ end }}
