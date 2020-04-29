@@ -1,0 +1,3 @@
+<div class="container">
+<div style="overflow:hidden;position:relative;"><div style="position:relative;width:100%;padding-top:56.25%;overflow:visible;"/><iframe name="plotaroute_map_{{ .Get "id" }}" src="https://www.plotaroute.com/embedmap/{{ .Get "id" }}?units=km" style="position:absolute;top:0;left:0;bottom:0;right:0;width:100%; height:100%;" frameborder="0" scrolling="no" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe></div><p style="margin-top:8px;font-family:Helvetica Neue,Helvetica,arial;font-size:11px;">Route map for <a href="https://www.plotaroute.com/route/{{ .Get "id" }}?units=km" target="_blank" title="View this route map on plotaroute.com">{{ .Get "title" }}</a></p></div>
+</div>
