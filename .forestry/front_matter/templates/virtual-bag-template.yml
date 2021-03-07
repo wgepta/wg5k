@@ -12,9 +12,11 @@ fields:
 - type: text
   name: link
   label: link
+  description: Link to the sponsor's website
 - type: number
   name: weight
   label: weight
+  hidden: true
 - name: coupon
   type: file
   config:
