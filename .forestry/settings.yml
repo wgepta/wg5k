@@ -10,8 +10,6 @@ sections:
   create: documents
   match: "**/*"
   new_doc_ext: json
-  templates:
-  - sponsor
 - type: directory
   path: content/courses
   label: Courses
