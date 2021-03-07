@@ -1,4 +1,21 @@
 ---
 label: Sponsor
 hide_body: true
-fields: []
+fields:
+- name: name
+  type: text
+  config:
+    required: false
+  label: Name
+- name: url
+  type: text
+  config:
+    required: false
+  label: Link
+  description: Link to sponsor's website
+- name: logo
+  type: file
+  config:
+    maxSize: 64
+  label: Logo
+  description: Should be 150px for both height and width
