@@ -4,14 +4,14 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: title
+  label: Sponsor Name
 - type: file
   name: logo
-  label: logo
   description: Logos should be 100px height and width.
+  label: Sponsor Logo
 - type: text
   name: link
-  label: link
+  label: Sponsor Site Link
   description: Link to the sponsor's website
 - type: number
   name: weight
@@ -21,7 +21,14 @@ fields:
   type: file
   config:
     maxSize: 64
-  label: coupon
   description: If the sponsor has a coupon to offer, upload it and it will show in
     their virtual bag.  <strong>If there is no coupon, the list link will go directly
     to the sponsor's website.</strong>
+  label: Coupon Image
+- name: coupon_document
+  type: file
+  config:
+    maxSize: 64
+  label: Coupon Document
+  description: Some sponsors want to add a printable document for a coupon.  If you
+    add a file here, it will be printable when users click on the coupon image.
