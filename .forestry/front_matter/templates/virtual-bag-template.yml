@@ -20,4 +20,5 @@ fields:
     maxSize: 64
   label: coupon
   description: If the sponsor has a coupon to offer, upload it and it will show in
-    their virtual bag.
+    their virtual bag.  <strong>If there is no coupon, the list link will go directly
+    to the sponsor's website.</strong>
