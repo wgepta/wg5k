@@ -9,11 +9,15 @@ sections:
   label: Courses
   create: all
   match: "**/*"
+  templates:
+  - courses
 - type: directory
   path: content/bags
   label: Virtual Bags
   create: all
   match: "**/*"
+  templates:
+  - virtual-bag-template
 - type: directory
   path: content
   label: Pages
