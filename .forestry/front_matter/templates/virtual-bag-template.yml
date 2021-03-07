@@ -8,6 +8,7 @@ fields:
 - type: file
   name: logo
   label: logo
+  description: Logos should be 100px height and width.
 - type: text
   name: link
   label: link
