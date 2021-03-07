@@ -14,3 +14,10 @@ fields:
 - type: number
   name: weight
   label: weight
+- name: coupon
+  type: file
+  config:
+    maxSize: 64
+  label: coupon
+  description: If the sponsor has a coupon to offer, upload it and it will show in
+    their virtual bag.
