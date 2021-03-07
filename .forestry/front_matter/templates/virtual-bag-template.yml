@@ -1,0 +1,16 @@
+---
+label: Virtual Bag Template
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: file
+  name: logo
+  label: logo
+- type: text
+  name: link
+  label: link
+- type: number
+  name: weight
+  label: weight
