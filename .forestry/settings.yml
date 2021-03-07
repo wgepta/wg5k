@@ -5,12 +5,6 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: data/sponsors
-  label: Sponsors
-  create: all
-  match: "**/*"
-  new_doc_ext: json
-- type: directory
   path: content/courses
   label: Courses
   create: all
