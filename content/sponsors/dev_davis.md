@@ -1,5 +1,4 @@
 +++
-draft = true
 hide = false
 level = "Platinum"
 logo = "/uploads/thumbs_dev_davis.png"
