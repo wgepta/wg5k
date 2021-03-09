@@ -27,7 +27,8 @@ fields:
     required: true
     options:
     - Presenting
-    - " Gold"
+    - Platinum
+    - Gold
     - " Silver"
     - " Bronze"
     source:
