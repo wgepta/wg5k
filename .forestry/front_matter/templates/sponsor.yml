@@ -44,6 +44,7 @@ fields:
   description: Hide this sponsor.  Use this if the sponsor hasn't yet paid or is to
     be kept off the list for some other reason.
 pages:
+- content/sponsors/bobbyblue.md
 - content/sponsors/dev_davis.md
 - content/sponsors/sjsr_club.md
 - content/sponsors/uyesugi.md
