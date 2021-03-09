@@ -20,3 +20,21 @@ fields:
     maxSize: 64
   label: Logo
   description: Should be 150px for both height and width
+- name: level
+  type: select
+  default: []
+  config:
+    required: false
+    options: []
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Level
+  description: The level at which the sponsor is registered.
+- name: hide
+  type: boolean
+  label: Hide
+  description: Hide this sponsor.  Use this if the sponsor hasn't yet paid or is to
+    be kept off the list for some other reason.
