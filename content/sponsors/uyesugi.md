@@ -1,5 +1,4 @@
 +++
-draft = true
 hide = false
 level = "Gold"
 logo = "/uploads/thumbs_uyesugi-dental.jpeg"

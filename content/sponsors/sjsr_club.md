@@ -1,5 +1,4 @@
 +++
-draft = true
 hide = false
 level = "Presenting"
 logo = "/uploads/sjsrc_logo.jpeg"
