@@ -5,6 +5,13 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: content/sponsors
+  label: Sponsors
+  create: all
+  match: "**/*"
+  templates:
+  - sponsor
+- type: directory
   path: content/courses
   label: Courses
   create: all
