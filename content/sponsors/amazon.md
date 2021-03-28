@@ -1,5 +1,5 @@
 +++
-hide = false
+hide = true
 level = "Gold"
 logo = "/uploads/thumbs_amazon_150.png"
 name = "Amazon"
