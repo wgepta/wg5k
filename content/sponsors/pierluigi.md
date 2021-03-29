@@ -1,7 +1,8 @@
 +++
 hide = false
 level = "Silver"
-name = "Pierluigi Oliverio"
 link = "http://www.fromhereforus.com/"
+logo = "/uploads/thumbs_pierluigi.jpg"
+name = "Pierluigi Oliverio"
 
 +++
