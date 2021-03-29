@@ -1,7 +1,8 @@
 +++
 hide = false
 level = "Bronze"
-name = "Towne Advisory Services"
 link = "https://towneadvisory.com/"
+logo = "/uploads/thumbs_TOWNE-logo-300x211.png"
+name = "Towne Advisory Services"
 
 +++
