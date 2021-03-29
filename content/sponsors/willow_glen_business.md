@@ -1,7 +1,8 @@
 +++
 hide = false
 level = "Silver"
-name = "Willow Glen Business Association"
 link = "http://www.willowglen.org/"
+logo = "/uploads/thumbs_wgba.jpg"
+name = "Willow Glen Business Association"
 
 +++
