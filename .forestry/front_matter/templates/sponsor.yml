@@ -22,15 +22,15 @@ fields:
   description: Should be 150px for both height and width
 - name: level
   type: select
-  default: " Silver"
+  default: Presenting
   config:
     required: true
     options:
     - Presenting
     - Platinum
     - Gold
-    - " Bronze"
     - Silver
+    - Bronze
     source:
       type: simple
       section: 
