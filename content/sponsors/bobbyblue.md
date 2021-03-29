@@ -1,8 +1,7 @@
 +++
 hide = false
-level = " Silver"
-logo = "/uploads/thumbs_bobbyblue-logo-100.jpeg"
-name = "bobbyblue"
-link = "http://www.bobbyblue.com/"
+level = "Silver"
+name = "Bobby Blue"
+link = "https://www.bobbyblue.com/"
 
 +++
