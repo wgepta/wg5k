@@ -6,7 +6,7 @@ type: page
 menu: main
 
 ---
-Sign up at the [Willow Glen 5K registration site](https://raceroster.com/events/2020/30150/willow-glen-5k-runwalk-for-education)
+Sign up at the [Willow Glen 5K registration site](https://raceroster.com/events/2021/46295/willow-glen-5k-runwalk-for-education)
 
 ### Fees
 
