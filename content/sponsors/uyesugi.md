@@ -1,8 +1,9 @@
 +++
 hide = false
-level = " Silver"
+level = "Silver"
+link = "http://www.sanjose-dentists.com/"
 logo = "/uploads/thumbs_uyesugi-dental.jpeg"
 name = "Uyesugi Dental"
-link = "http://www.sanjose-dentists.com/"
+url = ""
 
 +++
