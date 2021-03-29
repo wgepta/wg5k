@@ -29,8 +29,8 @@ fields:
     - Presenting
     - Platinum
     - Gold
-    - " Silver"
     - " Bronze"
+    - Silver
     source:
       type: simple
       section: 
