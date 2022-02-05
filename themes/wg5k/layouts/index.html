@@ -3,29 +3,31 @@
 <div class="jumbotron">
     <div class="container">
         <h1 class="display-4">
-            Any day in May : We're virtual!
+            Saturday, May 7, 2022
         </h1>
         <p class="lead">{{ .Site.Title }}</p>
         <hr class="my-4" />
         <p>{{ .Params.description }}</p>
         <a class="btn btn-primary btn-lg"
-            href="https://raceroster.com/events/2021/46295/willow-glen-5k-runwalk-for-education" role="button">Register
+            href="https://raceroster.com/events/2022/57055/willow-glen-5k-runwalk-for-education" role="button">Register
             Today!</a>
     </div>
 </div>
 
 <div class="container">
     {{ .Content }}
+
+    <h2>Why Should You Become a Sponsor?</h2>
+    <ul>
+        <li><b>EXPOSE</b> your business to Bay Area athletes and the Willow Glen community.</li>
+        <li><b>INCREASE</b> brand recognition of your product and services.</li>
+        <li><b>DISTRIBUTE</b> information and materials to showcase your products and services.</li>
+        <li><b>DRIVE</b> participants to your website.</li>
+        <li><b>SUPPORT LOCAL SCHOOLS</b> as proceeds benefit Willow Glen Elementary and other participating local
+            schools.</li>
+    </ul>
+
     <!--
-  <h2>Why Should You Become a Sponsor?</h2>
-  <ul>
-      <li><b>EXPOSE</b> your business to Bay Area athletes and the Willow Glen community.</li>
-      <li><b>INCREASE</b> brand recognition of your product and services.</li>
-      <li><b>DISTRIBUTE</b> information and materials to showcase your products and services.</li>
-      <li><b>DRIVE</b> participants to your website.</li>
-      <li><b>SUPPORT LOCAL SCHOOLS</b> as proceeds benefit Willow Glen Elementary and other participating local schools.</li>
-  </ul>
--->
     <hr />
     <h2>2021 Sponsors</h2>
     <p>
@@ -67,5 +69,6 @@
 
     {{ partial "sponsors.html" (where $sponsors "Params.level" "Bronze") }}
 </div>
+-->
 
-{{ end }}
+    {{ end }}

@@ -9,7 +9,7 @@ slug: the-race
 ---
 
 ### Course Description
-The Willow Glen 5K course is [USATF-certified](http://www.usatf.org/events/courses/search/searchResults.asp?embed=&courseID=CA11031RS&distance=&distanceUnits=&distanceComparison=&city=&state=&courseName=&courseStatus=A&courseType=R&drop=&dropComparison=&separation=&separationComparison=&certificationYear=&lastName=&format=view&submit=Search), fast and flat. The 5K starts in downtown Willow Glen at the corner of Lincoln Ave. at Minnesota and finishes 200 yards from the starting line in the Willow Glen Elementary School courtyard. The course is marked, well-labeled and measured to an accurate distance. Volunteers and police will monitor the cross-traffic at most intersections. Volunteers and community groups will line the race course to cheer you on and provide entertainment.
+The Willow Glen 5K course is fast and flat. The 5K starts in downtown Willow Glen at the corner of Lincoln Ave. at Minnesota and finishes 200 yards from the starting line in the Willow Glen Elementary School courtyard. The course is marked, well-labeled and measured to an accurate distance. Volunteers and police will monitor the cross-traffic at most intersections. Volunteers and community groups will line the race course to cheer you on and provide entertainment.
 
 There are two official water stations during the 3.1-mile-race. Water is also available at the finish line.
 
@@ -51,11 +51,13 @@ Finish Line Photos will be taken and will be available to view and purchase onli
 ### Parking
 Plan to arrive early. Parking is available in the surrounding community streets, including Lincoln Avenue and Minnesota Avenue. The race start and finish and community festival are located on the Willow Glen Elementary School campus, located at 1425 Lincoln Avenue, San Jose.
 
+<!-- 
 Street parking is available and parking lots from local churches are open to race participants. Street closures begin at 8:30 a.m.; please plan accordingly. Parking lots include:
 
 * Church of God of San Jose – 937 Minnesota Avenue‬; San Jose, CA 95125
 * Willow Glen Bible Church – 1292 Minnesota Avenue; San Jose, CA 95125
 * Croatian Catholic Church – 901 Lincoln Avenue, San Jose, CA 95125
+-->
 
 Bike parking is also available in the lot behind Willow Glen Elementary accessible via Lincoln Avenue.
 
