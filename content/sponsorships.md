@@ -9,7 +9,7 @@ menu:
 ---
 ### Reach highly-targeted customers and give back to local schools!
 
-The Willow Glen 5K RUN/WALK for Education is a successful volunteer-coordinated community race through the Willow Glen neighborhood of San Jose. This event includes an average of 2,000 participants each year, ranging from recognized local runners to parents pushing strollers. Racers, families and neighbo\`rs then join together at the finish line for a post-race festival featuring sponsor signage, booths, pancake breakfast, kid zone, and promotional swag.
+The Willow Glen 5K RUN/WALK for Education is a successful volunteer-coordinated community race through the Willow Glen neighborhood of San Jose. This event includes an average of 2,000 participants each year, ranging from recognized local runners to parents pushing strollers. Racers, families and neighbors then join together at the finish line for a post-race festival featuring sponsor signage, booths, pancake breakfast, kid zone, and promotional swag.
 
 As a prominent local business/organization, we would like to invite you to become a sponsor for this year’s race. Sponsorship increases awareness and recognition of your business to parents, local schools and the entire Willow Glen community through promotional materials that reach tens of thousands of local residents. Sponsorship opportunities range from $500 to $5,000 and offer varying degrees of pre-race and race day promotions. Please see the attached flier for details or send mail to **sponsorships@wg5k.org**.
 
