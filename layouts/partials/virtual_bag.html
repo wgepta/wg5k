@@ -1,11 +1,11 @@
 <div class="col-sm-2">
     {{ if isset .Params "coupon" }}
     <a class="card" style="width: 142px;" href="{{ .Permalink }}">
-    {{ else }}
-    <a class="card" style="width: 142px;" href="{{ .Params.link }}"> 
-    {{ end }}
-        <div class="card-body">
-            <img src="/images/sponsors/{{ .Params.logo }}" class="card-img-top" alt="{{ .Params.name }}" width="100px">
-        </div>
-    </a>
+        {{ else }}
+        <a class="card" style="width: 142px;" href="{{ .Params.link }}">
+            {{ end }}
+            <div class="card-body">
+                <img src="/uploads/{{ .Params.logo }}" class="card-img-top" alt="{{ .Params.name }}" width="100px">
+            </div>
+        </a>
 </div>
