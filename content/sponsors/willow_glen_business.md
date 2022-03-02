@@ -1,5 +1,5 @@
 +++
-hide = false
+hide = true
 level = "Silver"
 link = "http://www.willowglen.org/"
 logo = "/uploads/thumbs_wgba.jpg"
