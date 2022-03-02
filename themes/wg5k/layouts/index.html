@@ -27,20 +27,14 @@
             schools.</li>
     </ul>
 
-    <!--
     <hr />
-    <h2>2021 Sponsors</h2>
+
+    <h2>2022 Sponsors</h2>
     <p>
         The Willow Glen 5K is made possible by our Presenting Sponsor, San Jose Swim
         and Racquet Club, and the generous contributions of the following Willow
         Glen businesses. Join us in thanking them by supporting them next time
         you’re in Willow Glen!
-    </p>
-
-    <p>
-        COVID-19 is affecting everyone, including our sponsors. Consider buying gift
-        cards from them, if possible. Remember them when we eventually return to
-        normal daily life.
     </p>
 
     {{ $sponsors := where .Site.RegularPages "Section" "sponsors" }}
@@ -69,6 +63,6 @@
 
     {{ partial "sponsors.html" (where $sponsors "Params.level" "Bronze") }}
 </div>
--->
 
-    {{ end }}
+
+{{ end }}
