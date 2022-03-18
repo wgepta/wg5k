@@ -41,27 +41,27 @@
 
     <h3>Presenting Sponsor</h3>
 
-    {{ partial "sponsors.html" (where $sponsors "Params.level" "Presenting") }}
+    {{ partial "sponsors.html" (where (where $sponsors "Params.level" "Presenting") "Params.hide" false) }}
 
     <hr />
     <h3>Platinum Sponsors</h3>
 
-    {{ partial "sponsors.html" (where $sponsors "Params.level" "Platinum") }}
+    {{ partial "sponsors.html" (where (where $sponsors "Params.level" "Platinum") "Params.hide" false) }}
 
     <hr />
     <h3>Gold Sponsors</h3>
 
-    {{ partial "sponsors.html" (where $sponsors "Params.level" "Gold") }}
+    {{ partial "sponsors.html" (where (where $sponsors "Params.level" "Gold") "Params.hide" false) }}
 
     <hr />
     <h3>Silver Sponsors</h3>
 
-    {{ partial "sponsors.html" (where $sponsors "Params.level" "Silver") }}
+    {{ partial "sponsors.html" (where (where $sponsors "Params.level" "Silver") "Params.hide" false) }}
 
     <hr />
     <h3>Bronze Sponsors</h3>
 
-    {{ partial "sponsors.html" (where $sponsors "Params.level" "Bronze") }}
+    {{ partial "sponsors.html" (where (where $sponsors "Params.level" "Bronze") "Params.hide" false) }}
 </div>
 
 
