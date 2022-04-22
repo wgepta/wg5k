@@ -1,5 +1,4 @@
 +++
-draft = true
 hide = false
 level = "Bronze"
 link = "https://www.lamellatavern.com/"
