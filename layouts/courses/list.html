@@ -1,15 +1,14 @@
 {{ define "main" }}
 <div class="container mt-4">
     <h1>{{ .Title }}</h1>
-    <p>We aren't running together this year but that doesn't mean we can't run.  
-        Lincoln Avenue won't close for the race, but we can chart our own way, 
-        with help from our fellow runners.  
+    <p>We're all running together again, but that doesn't mean we can't post our training routes! We can also post
+        routes if you want to run but you're not in Willow Glen. Send them our way!
     </p>
     <p>Here are some courses, we have so far, starting with the official Willow Glen 5K course:</p>
     <ul>
-    {{ range .Pages }}
+        {{ range .Pages }}
         <li><a href="{{ .Permalink }}">{{ .Title }}</a>
-    {{ end }}
+            {{ end }}
     </ul>
 
 
