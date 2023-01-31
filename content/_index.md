@@ -1,6 +1,6 @@
 ---
 description: The  Willow Glen 5K Run/Walk for Education is back! Join us Saturday,
-  May 7th!
+  May 13th!
 
 ---
 # A message from the race organizer
