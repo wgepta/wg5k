@@ -3,6 +3,11 @@ languageCode = "en-us"
 title = "Willow Glen 5K Run/Walk"
 theme = 'wg5k'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   race_date = "Saturday, May 13, 2023"
   race_time = "9AM"
