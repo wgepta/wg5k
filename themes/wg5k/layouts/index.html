@@ -33,7 +33,6 @@
 
     <p>See the <a href="/sponsorships">sponsorships page</a> for more info!</p>
 
-    <!--
     <hr />
 
     <h2>2023 Sponsors</h2>
@@ -41,7 +40,7 @@
         The Willow Glen 5K is made possible by our Presenting Sponsor, San Jose Swim
         and Racquet Club, and the generous contributions of the following Willow
         Glen businesses. Join us in thanking them by supporting them next time
-        you’re in Willow Glen!
+        you're in Willow Glen!
     </p>
 
     {{ $sponsors := where .Site.RegularPages "Section" "sponsors" }}
@@ -53,12 +52,12 @@
     <hr />
     <h3>Platinum Sponsors</h3>
 
-    {{ partial "sponsors.html" (where (where $sponsors "Params.level" "Platinum") "Params.hide" false) }}
+    Coming soon!
 
     <hr />
     <h3>Gold Sponsors</h3>
 
-    {{ partial "sponsors.html" (where (where $sponsors "Params.level" "Gold") "Params.hide" false) }}
+    Coming soon!
 
     <hr />
     <h3>Silver Sponsors</h3>
@@ -73,4 +72,4 @@
 
 -->
 
-    {{ end }}
+{{ end }}

@@ -101,6 +101,33 @@ Route map for WGE Newport 5K</description>
     </item>
     
     <item>
+      <title></title>
+      <link>http://localhost:8080/sponsors/mathnasium/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/sponsors/mathnasium/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:8080/sponsors/presentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/sponsors/presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:8080/sponsors/sjsr_club/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/sponsors/sjsr_club/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Athletic Treads</title>
       <link>http://localhost:8080/bags/athletic-treads/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

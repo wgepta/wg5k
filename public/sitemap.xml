@@ -24,6 +24,12 @@
   </url><url>
     <loc>http://localhost:8080/</loc>
   </url><url>
+    <loc>http://localhost:8080/sponsors/mathnasium/</loc>
+  </url><url>
+    <loc>http://localhost:8080/sponsors/presentation/</loc>
+  </url><url>
+    <loc>http://localhost:8080/sponsors/sjsr_club/</loc>
+  </url><url>
     <loc>http://localhost:8080/bags/athletic-treads/</loc>
   </url><url>
     <loc>http://localhost:8080/bags/berliner-cohen/</loc>
@@ -45,6 +51,8 @@
     <loc>http://localhost:8080/the-race/</loc>
   </url><url>
     <loc>http://localhost:8080/registration/</loc>
+  </url><url>
+    <loc>http://localhost:8080/sponsors/</loc>
   </url><url>
     <loc>http://localhost:8080/sponsorships/</loc>
   </url><url>
