@@ -2,92 +2,88 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Willow Glen 5K Virtual Bag on Willow Glen 5K Run/Walk</title>
-    <link>http://wg5k.org/bags/</link>
+    <link>http://localhost:8080/bags/</link>
     <description>Recent content in Willow Glen 5K Virtual Bag on Willow Glen 5K Run/Walk</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="http://wg5k.org/bags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="http://localhost:8080/bags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>San Jose Swim and Racquet Club</title>
-      <link>http://wg5k.org/bags/san-jose-swim-and-racquet-club/</link>
+      <link>http://localhost:8080/bags/san-jose-swim-and-racquet-club/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://wg5k.org/bags/san-jose-swim-and-racquet-club/</guid>
+      <guid>http://localhost:8080/bags/san-jose-swim-and-racquet-club/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dev Davis City Councilmember</title>
-      <link>http://wg5k.org/bags/dev-davis/</link>
+      <link>http://localhost:8080/bags/dev-davis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://wg5k.org/bags/dev-davis/</guid>
+      <guid>http://localhost:8080/bags/dev-davis/</guid>
       <description>My goal is to actively engage and communicate with all residents in our community. District 6 staff members and I welcome your questions, comments or concerns anytime.</description>
     </item>
     
     <item>
       <title>SDS NexGen &amp; Mulcahy Family</title>
-      <link>http://wg5k.org/bags/sds-nextgen-mulcahy/</link>
+      <link>http://localhost:8080/bags/sds-nextgen-mulcahy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://wg5k.org/bags/sds-nextgen-mulcahy/</guid>
+      <guid>http://localhost:8080/bags/sds-nextgen-mulcahy/</guid>
       <description>SDS NexGen Partners is a privately held real estate and investment firm based in San Jose, California.</description>
     </item>
     
     <item>
       <title>Google</title>
-      <link>http://wg5k.org/bags/google/</link>
+      <link>http://localhost:8080/bags/google/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://wg5k.org/bags/google/</guid>
+      <guid>http://localhost:8080/bags/google/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Uyesugi Dental</title>
-      <link>http://wg5k.org/bags/uyesugi-dental/</link>
+      <link>http://localhost:8080/bags/uyesugi-dental/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://wg5k.org/bags/uyesugi-dental/</guid>
+      <guid>http://localhost:8080/bags/uyesugi-dental/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yuki Sushi</title>
-      <link>http://wg5k.org/bags/yuki-sushi/</link>
+      <link>http://localhost:8080/bags/yuki-sushi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://wg5k.org/bags/yuki-sushi/</guid>
+      <guid>http://localhost:8080/bags/yuki-sushi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Athletic Treads</title>
-      <link>http://wg5k.org/bags/athletic-treads/</link>
+      <link>http://localhost:8080/bags/athletic-treads/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://wg5k.org/bags/athletic-treads/</guid>
+      <guid>http://localhost:8080/bags/athletic-treads/</guid>
       <description>Our store is closed for in-store shopping (during the shelter in place), but we have launched a contactless, free home delivery or curbside pickup option. Please give us a call at the phone number listed below and let us know what shoe model / size you are looking for. If you are not sure what shoe is best for your foot type, please ask us for a Virtual Fitting or Social Distancing House Call.</description>
     </item>
     
     <item>
       <title>Berliner Cohen LLP</title>
-      <link>http://wg5k.org/bags/berliner-cohen/</link>
+      <link>http://localhost:8080/bags/berliner-cohen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://wg5k.org/bags/berliner-cohen/</guid>
+      <guid>http://localhost:8080/bags/berliner-cohen/</guid>
       <description>We know that these are strange times for everyone. We are sorry we can’t enjoy our great California weather with everyone at the Willow Glen 5K. While you are sheltering in place, Berliner Cohen, LLP thought you would enjoy learning some strange laws that have existed in California.</description>
     </item>
     
     <item>
       <title>Bobby Blue</title>
-      <link>http://wg5k.org/bags/bobbyblue/</link>
+      <link>http://localhost:8080/bags/bobbyblue/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://wg5k.org/bags/bobbyblue/</guid>
+      <guid>http://localhost:8080/bags/bobbyblue/</guid>
       <description>bobbyblue is a consulting business for web development and visual design services.
 Founded in 1998, bobbyblue provides for the needs of communications and interaction within digital and print media.
 bobbyblue helps customers realize their ideas through a detail-oriented service, is focused on meeting clients goals, and maintains scalablity to adjust for large and small projects.
@@ -96,56 +92,56 @@ Client types have included: silicon valley corporations, life sciences, restaura
     
     <item>
       <title>California Sports Center</title>
-      <link>http://wg5k.org/bags/california-sports-center/</link>
+      <link>http://localhost:8080/bags/california-sports-center/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://wg5k.org/bags/california-sports-center/</guid>
+      <guid>http://localhost:8080/bags/california-sports-center/</guid>
       <description>California Sports Center provides the opportunity to become the best you can be! CSC believes teaching gymnastics, swimming, and dance in fun, progressive, and safe learning environments will result in happier and healthier people.
- Check out our full online schedule Catch up with us on Facebook Take in some free videos from our gym  </description>
+Check out our full online schedule Catch up with us on Facebook Take in some free videos from our gym </description>
     </item>
     
     <item>
       <title>Kristen Brown for Trustee Area 3</title>
-      <link>http://wg5k.org/bags/kristen-brown/</link>
+      <link>http://localhost:8080/bags/kristen-brown/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://wg5k.org/bags/kristen-brown/</guid>
+      <guid>http://localhost:8080/bags/kristen-brown/</guid>
       <description>My name is Kristen Brown, and I want to represent our Willow Glen Community on the San Jose Unified School Board. The position I am running for is Trustee Area Three which includes the district schools of Booksin, Ernesto Galarza, Gardner, Hammer Montessori, River Glen, Schallenberger, as well as Willow Glen Elementary, Middle and High Schools.</description>
     </item>
     
     <item>
       <title>Lynsie Gridley</title>
-      <link>http://wg5k.org/bags/lynsie-gridley/</link>
+      <link>http://localhost:8080/bags/lynsie-gridley/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://wg5k.org/bags/lynsie-gridley/</guid>
+      <guid>http://localhost:8080/bags/lynsie-gridley/</guid>
       <description>Lynsie is a seasoned, future forward, professional realtor. She specializes in the sales and marketing of homes and residential lots.</description>
     </item>
     
     <item>
       <title>Mashouf Orthodontics</title>
-      <link>http://wg5k.org/bags/mashouf-orthodontics/</link>
+      <link>http://localhost:8080/bags/mashouf-orthodontics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://wg5k.org/bags/mashouf-orthodontics/</guid>
+      <guid>http://localhost:8080/bags/mashouf-orthodontics/</guid>
       <description>Mashouf Orthodontics is a leading South Bay area orthodontic practice that is located in the heart of San Jose. Our orthodontists, Drs. Kayhan Mashouf, Shannon Hayashibara, and Cameron Mashouf, along with their team of professionals are committed to excellence in patient treatment and service. Whether you’re looking for an orthodontist to provide your child with early or adolescent treatment or are interested in adult treatment for yourself, we can meet all your family’s orthodontic needs in one convenient location.</description>
     </item>
     
     <item>
       <title>Supervisor Pierluigi Oliverio</title>
-      <link>http://wg5k.org/bags/pierluigi-oliviero/</link>
+      <link>http://localhost:8080/bags/pierluigi-oliviero/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://wg5k.org/bags/pierluigi-oliviero/</guid>
+      <guid>http://localhost:8080/bags/pierluigi-oliviero/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Willow Glen Business Association</title>
-      <link>http://wg5k.org/bags/willow-glen-business-association/</link>
+      <link>http://localhost:8080/bags/willow-glen-business-association/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://wg5k.org/bags/willow-glen-business-association/</guid>
+      <guid>http://localhost:8080/bags/willow-glen-business-association/</guid>
       <description></description>
     </item>
     

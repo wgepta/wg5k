@@ -1,169 +1,63 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>http://wg5k.org/courses/official-wg5k-course/</loc>
+    <loc>http://localhost:8080/courses/official-wg5k-course/</loc>
+  </url><url>
+    <loc>http://localhost:8080/bags/san-jose-swim-and-racquet-club/</loc>
+  </url><url>
+    <loc>http://localhost:8080/courses/naval-base-alameda/</loc>
+  </url><url>
+    <loc>http://localhost:8080/courses/three-creeks/</loc>
+  </url><url>
+    <loc>http://localhost:8080/bags/dev-davis/</loc>
+  </url><url>
+    <loc>http://localhost:8080/bags/sds-nextgen-mulcahy/</loc>
+  </url><url>
+    <loc>http://localhost:8080/courses/newport-loop/</loc>
+  </url><url>
+    <loc>http://localhost:8080/bags/google/</loc>
+  </url><url>
+    <loc>http://localhost:8080/bags/uyesugi-dental/</loc>
+  </url><url>
+    <loc>http://localhost:8080/bags/yuki-sushi/</loc>
+  </url><url>
+    <loc>http://localhost:8080/</loc>
+  </url><url>
+    <loc>http://localhost:8080/bags/athletic-treads/</loc>
+  </url><url>
+    <loc>http://localhost:8080/bags/berliner-cohen/</loc>
+  </url><url>
+    <loc>http://localhost:8080/bags/bobbyblue/</loc>
+  </url><url>
+    <loc>http://localhost:8080/bags/california-sports-center/</loc>
+  </url><url>
+    <loc>http://localhost:8080/categories/</loc>
+  </url><url>
+    <loc>http://localhost:8080/contact-us/</loc>
+  </url><url>
+    <loc>http://localhost:8080/bags/kristen-brown/</loc>
+  </url><url>
+    <loc>http://localhost:8080/bags/lynsie-gridley/</loc>
+  </url><url>
+    <loc>http://localhost:8080/bags/mashouf-orthodontics/</loc>
+  </url><url>
+    <loc>http://localhost:8080/the-race/</loc>
+  </url><url>
+    <loc>http://localhost:8080/registration/</loc>
+  </url><url>
+    <loc>http://localhost:8080/sponsorships/</loc>
+  </url><url>
+    <loc>http://localhost:8080/bags/pierluigi-oliviero/</loc>
+  </url><url>
+    <loc>http://localhost:8080/tags/</loc>
+  </url><url>
+    <loc>http://localhost:8080/volunteers/</loc>
+  </url><url>
+    <loc>http://localhost:8080/courses/</loc>
+  </url><url>
+    <loc>http://localhost:8080/bags/</loc>
+  </url><url>
+    <loc>http://localhost:8080/bags/willow-glen-business-association/</loc>
   </url>
-  
-  <url>
-    <loc>http://wg5k.org/bags/san-jose-swim-and-racquet-club/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/courses/three-creeks/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/bags/dev-davis/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/bags/sds-nextgen-mulcahy/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/courses/newport-loop/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/bags/google/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/bags/uyesugi-dental/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/bags/yuki-sushi/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/sponsors/amazon/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/sponsors/bobbyblue/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/sponsors/brads_auto_care/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/sponsors/dev_davis/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/sponsors/ebay/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/sponsors/google/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/sponsors/pam_foley/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/sponsors/sds_nexgen/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/sponsors/sjsr_club/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/sponsors/uyesugi/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/sponsors/yuki_sushi/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/bags/athletic-treads/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/bags/berliner-cohen/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/bags/bobbyblue/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/bags/california-sports-center/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/contact-us/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/covid-19/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/bags/kristen-brown/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/bags/lynsie-gridley/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/bags/mashouf-orthodontics/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/the-race/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/registration/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/sponsors/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/sponsorships/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/bags/pierluigi-oliviero/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/volunteers/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/courses/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/bags/</loc>
-  </url>
-  
-  <url>
-    <loc>http://wg5k.org/bags/willow-glen-business-association/</loc>
-  </url>
-  
 </urlset>

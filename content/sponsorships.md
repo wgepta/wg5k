@@ -29,7 +29,7 @@ The Willow Glen 5K is a certified, fast and flat course that starts in downtown 
 
 For more information, send mail to **sponsorships@wg5k.org**.
 
-### 2022 Willow Glen 5K Sponsorship Levels
+### 2023 Willow Glen 5K Sponsorship Levels
 
 Download more details on [becoming a Willow Glen 5K sponsor!](/docs/2020_sponsorship_packet.pdf)
 
