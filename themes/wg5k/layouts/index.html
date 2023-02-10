@@ -57,7 +57,7 @@
     <hr />
     <h3>Gold Sponsors</h3>
 
-    Coming soon!
+    {{ partial "sponsors.html" (where (where $sponsors "Params.level" "Gold") "Params.hide" false) }}
 
     <hr />
     <h3>Silver Sponsors</h3>
