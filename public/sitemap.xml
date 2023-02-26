@@ -24,6 +24,14 @@
   </url><url>
     <loc>http://localhost:8080/</loc>
   </url><url>
+    <loc>http://localhost:8080/sponsors/berliner_cohen/</loc>
+  </url><url>
+    <loc>http://localhost:8080/sponsors/compass/</loc>
+  </url><url>
+    <loc>http://localhost:8080/sponsors/dr_rabitz/</loc>
+  </url><url>
+    <loc>http://localhost:8080/sponsors/hapas/</loc>
+  </url><url>
     <loc>http://localhost:8080/sponsors/mathnasium/</loc>
   </url><url>
     <loc>http://localhost:8080/sponsors/presentation/</loc>
@@ -31,6 +39,12 @@
     <loc>http://localhost:8080/sponsors/sjsr_club/</loc>
   </url><url>
     <loc>http://localhost:8080/sponsors/snowflake/</loc>
+  </url><url>
+    <loc>http://localhost:8080/sponsors/uyesugi/</loc>
+  </url><url>
+    <loc>http://localhost:8080/sponsors/vision/</loc>
+  </url><url>
+    <loc>http://localhost:8080/sponsors/visualeyes/</loc>
   </url><url>
     <loc>http://localhost:8080/bags/athletic-treads/</loc>
   </url><url>
