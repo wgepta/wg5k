@@ -8,6 +8,15 @@
     <language>en-us</language><atom:link href="http://localhost:8080/sponsors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
+      <link>http://localhost:8080/sponsors/athena/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/sponsors/athena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://localhost:8080/sponsors/berliner_cohen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -17,10 +26,28 @@
     
     <item>
       <title></title>
+      <link>http://localhost:8080/sponsors/bmi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/sponsors/bmi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://localhost:8080/sponsors/compass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:8080/sponsors/compass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:8080/sponsors/dev_davis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/sponsors/dev_davis/</guid>
       <description></description>
     </item>
     
@@ -44,6 +71,15 @@
     
     <item>
       <title></title>
+      <link>http://localhost:8080/sponsors/lynsie_gridley/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/sponsors/lynsie_gridley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://localhost:8080/sponsors/mathnasium/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -53,10 +89,37 @@
     
     <item>
       <title></title>
+      <link>http://localhost:8080/sponsors/pierluigi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/sponsors/pierluigi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://localhost:8080/sponsors/presentation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:8080/sponsors/presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:8080/sponsors/reed_graham/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/sponsors/reed_graham/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:8080/sponsors/sds_nexgen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/sponsors/sds_nexgen/</guid>
       <description></description>
     </item>
     
@@ -75,6 +138,33 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:8080/sponsors/snowflake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:8080/sponsors/splashworks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/sponsors/splashworks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:8080/sponsors/stars_and_strides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/sponsors/stars_and_strides/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:8080/sponsors/the_table/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/sponsors/the_table/</guid>
       <description></description>
     </item>
     
@@ -102,6 +192,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:8080/sponsors/visualeyes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:8080/sponsors/yuki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/sponsors/yuki/</guid>
       <description></description>
     </item>
     
