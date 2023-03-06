@@ -1,5 +1,5 @@
 +++
-hide = true
+hide = false
 level = "Bronze"
 link = "https://www.bluemarble.com/"
 logo = "/uploads/bmi.jpg"
