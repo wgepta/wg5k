@@ -1,6 +1,6 @@
 +++
 hide = false
-level = "Silver"
+level = "Bronze"
 link = "https://www.cefcu.com/"
 logo = "/uploads/cefcu.png"
 name = "CEFCU"
