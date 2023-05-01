@@ -13,11 +13,14 @@ Sign up at the [Willow Glen 5K registration site](https://raceroster.com/events/
 
 #### Times
 
-**TBD!**
+* Saturday, May 6th, from 10am to 1pm at [SJSRC](https://www.sjsrc.com/)
+* Sunday, May 7th, from 1pm to 4pm at [SJSRC](https://www.sjsrc.com/)
+* Tuesday May 9th, from 3pm to 5pm at [SJSRC](https://www.sjsrc.com/)
+* Thursday, May 11th, from 4pm to 6pm at [Willow Glen Elementary](https://wge.sjusd.org/)
 
 #### Locations
 
-**SJSRC** : 1170 Pedro Street San Jose, CA 95126  
+**SJSRC**: 1170 Pedro Street San Jose, CA 95126   
 **Willow Glen Elementary**: 1425 Lincoln Ave, San Jose, CA 95125
 
 ### Fees
