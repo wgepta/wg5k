@@ -129,6 +129,15 @@ Route map for WGE Newport 5K</description>
     
     <item>
       <title></title>
+      <link>http://localhost:8080/sponsors/cefcu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/sponsors/cefcu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://localhost:8080/sponsors/compass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -156,6 +165,33 @@ Route map for WGE Newport 5K</description>
     
     <item>
       <title></title>
+      <link>http://localhost:8080/sponsors/excite/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/sponsors/excite/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:8080/sponsors/gomez_edwards/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/sponsors/gomez_edwards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:8080/sponsors/google/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/sponsors/google/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://localhost:8080/sponsors/hapas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -165,10 +201,46 @@ Route map for WGE Newport 5K</description>
     
     <item>
       <title></title>
+      <link>http://localhost:8080/sponsors/hillbrook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/sponsors/hillbrook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:8080/sponsors/hoover_krepelka/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/sponsors/hoover_krepelka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:8080/sponsors/jens_cakes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/sponsors/jens_cakes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://localhost:8080/sponsors/lynsie_gridley/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:8080/sponsors/lynsie_gridley/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:8080/sponsors/mashouf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/sponsors/mashouf/</guid>
       <description></description>
     </item>
     
@@ -201,10 +273,37 @@ Route map for WGE Newport 5K</description>
     
     <item>
       <title></title>
+      <link>http://localhost:8080/sponsors/ranchtown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/sponsors/ranchtown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://localhost:8080/sponsors/reed_graham/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:8080/sponsors/reed_graham/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:8080/sponsors/roth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/sponsors/roth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:8080/sponsors/rotten_robbie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/sponsors/rotten_robbie/</guid>
       <description></description>
     </item>
     
@@ -228,10 +327,28 @@ Route map for WGE Newport 5K</description>
     
     <item>
       <title></title>
+      <link>http://localhost:8080/sponsors/sjsu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/sponsors/sjsu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://localhost:8080/sponsors/snowflake/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:8080/sponsors/snowflake/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:8080/sponsors/south_bay_window_filming/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/sponsors/south_bay_window_filming/</guid>
       <description></description>
     </item>
     
@@ -286,6 +403,33 @@ Route map for WGE Newport 5K</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://localhost:8080/sponsors/visualeyes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:8080/sponsors/werba_rubin_papier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/sponsors/werba_rubin_papier/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:8080/sponsors/wgba/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/sponsors/wgba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:8080/sponsors/window_graphics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:8080/sponsors/window_graphics/</guid>
       <description></description>
     </item>
     
@@ -390,8 +534,7 @@ Check out our full online schedule Catch up with us on Facebook Take in some fre
       
       <guid>http://localhost:8080/registration/</guid>
       <description>Sign up at the Willow Glen 5K registration site
-Packet Pickup Times TBD!
-Locations SJSRC : 1170 Pedro Street San Jose, CA 95126
+Packet Pickup Times Saturday, May 6th, from 10am to 1pm at SJSRC Sunday, May 7th, from 1pm to 4pm at SJSRC Tuesday May 9th, from 3pm to 5pm at SJSRC Thursday, May 11th, from 4pm to 6pm at Willow Glen Elementary Locations SJSRC: 1170 Pedro Street San Jose, CA 95126
 Willow Glen Elementary: 1425 Lincoln Ave, San Jose, CA 95125
 Fees Adult (20+): $30 (includes t-shirt, race number and race bag with sponsor offers) Teen (5-19): $20 (includes t-shirt, race number and race bag with sponsor offers) Child (4 and under): Free ($10 for t-shirt) You must register (and obtain a race number) in order to cross the finish line.</description>
     </item>
