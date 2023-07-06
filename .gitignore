@@ -1,1 +1,6 @@
+# No macOS thumbnails, please.
 .DS_Store
+
+# Local Firebase stuff.
+firebase-debug.log
+.firebase
