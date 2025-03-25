@@ -6,6 +6,13 @@
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
+    ],
+    "redirects": [
+      {
+        "source": "/registration",
+        "destination": "/registration.html",
+        "type": 301
+      }
     ]
   }
 }
